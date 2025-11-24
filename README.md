@@ -13,4 +13,5 @@ Latest features:
 * Helicity basis
 
 When using this code please cite:
-[Perdana, N., Rockstuhl, C., & Iskandar, A. A. (2021). Induced higher order multipolar resonances from interacting scatterers. Journal of the Optical Society of America B, 38(1), 241. https://doi.org/10.1364/josab.410860]([url](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josab&uri=josab-38-1-241&html=true))
+
+[Perdana, N., Rockstuhl, C., & Iskandar, A. A. (2021). Induced higher order multipolar resonances from interacting scatterers. Journal of the Optical Society of America B, 38(1), 241. https://doi.org/10.1364/josab.410860](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josab&uri=josab-38-1-241&html=true)
